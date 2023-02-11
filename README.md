@@ -68,7 +68,7 @@ There is nothing that doesn't work
 
 | Feature | Status | Dependency | Remarks |
 | --- | --- | --- | --- |
-| To use the software MonitorControl, you need to show support for the DDC/CI protocol<br>使用软件 MonitorControl调节，需要显示支持DDC/CI协议 | ✅ | 
+| Display brightness adjustment | ✅ | | To use the software MonitorControl, you need to show support for the DDC/CI protocol<br>使用软件 MonitorControl调节，需要显示支持DDC/CI协议 |
 | HiDPI | ✅ | | Natively enabled on  screen<br>在 4K 屏幕上原生启用 |
 
 ## Refrence / 必读参考资料
