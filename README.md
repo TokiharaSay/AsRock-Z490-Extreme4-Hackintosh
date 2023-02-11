@@ -49,7 +49,7 @@ There is nothing that doesn't work
 
 | Feature | Status | Dependency | Remarks |
 | --- | --- | --- | --- |
-| CPU Power Management (SpeedShift)<br>CPU 电源管理 | ✅ | `SSDT-Plug` | Use `iMac 19,2` for beter power management<br>使用 `iMac 19,2` 机型以获得更好的电源管理 |
+| CPU Power Management (SpeedShift)<br>CPU 电源管理 | ✅ | `SSDT-Plug` | Use CPUFriend and CPUFriendDataProvider for better power management<br>使用CPUFriend和CPUFriendDataProvider 获得更好的电源管理 |
 | S3 Sleep / Hibernation Mode 3<br>S3 睡眠 / Mode 3 休眠 | ✅ | `supported` | |
 | Hibernation Mode 25<br>Mode 25 休眠 | ✅ | `sudo pmset hibernatemode 25` | Works on my machine. Report an issue if you have encountered any issue.<br>测试成功。如果你在休眠时遇到问题，请反馈给我 |
 
