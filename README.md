@@ -16,7 +16,7 @@ Your warranty is now void. Please do some research if you have any concerns befo
 
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
-| CPU              | Intel i5 10400 ES (6C-12T)         |
+| CPU              | Intel i5 10400  (6C-12T)           |
 | iGPU             | Intel® HD 630 Graphics             |
 | DGPU             | MSI Radeon RX 6600XT               |
 | Lan              | Realtek PCIe 2.5GbE                |
