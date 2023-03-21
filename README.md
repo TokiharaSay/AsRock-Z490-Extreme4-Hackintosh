@@ -26,7 +26,7 @@ Your warranty is now void. Please do some research if you have any concerns befo
 | NVMe             | WD SN550 1TB Fanxiang S500 Pro 2TB |
 | PCIE Expansion   | GC-TITAN RIDGE ver 1.0             |
 | SmBios           | iMac 19,2                          |
-| BootLoader       | OpenCore 0.8.8                     |
+| BootLoader       | OpenCore 0.9.0                     |
 | macOS            | supported Monterey to Ventura      |
 
 ## Working & Not Working / 可用与不可用的功能
