@@ -21,7 +21,7 @@ Your warranty is now void. Please do some research if you have any concerns befo
 | DGPU             | MSI Radeon RX 6600XT               |
 | Lan              | Realtek PCIe 2.5GbE                |
 | Audio            | Realtek ALC1220/S/A                |
-| Ram              | KLEVV 32 GB DDR4 3600 Mhz          |
+| Ram              | KLEVV 16 GB DDR4 3600 Mhz          |
 | Wifi + Bluetooth | Intel® AX201  BCM94360Z4           |
 | NVMe             | WD SN550 1TB Fanxiang S500 Pro 2TB |
 | PCIE Expansion   | GC-TITAN RIDGE ver 1.0             |
