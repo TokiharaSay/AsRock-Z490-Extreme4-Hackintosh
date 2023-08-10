@@ -23,7 +23,7 @@ Your warranty is now void. Please do some research if you have any concerns befo
 | Audio            | Realtek ALC1220/S/A                |
 | Ram              | KLEVV 16 GB DDR4 3600 Mhz          |
 | Wifi + Bluetooth | Intel® AX201  BCM94360Z4           |
-| NVMe             | WD SN550 1TB Fanxiang S500 Pro 2TB |
+| NVMe             | WD SN550 1TB                       |
 | PCIE Expansion   | GC-TITAN RIDGE ver 1.0             |
 | SmBios           | iMac 19,2                          |
 | BootLoader       | OpenCore 0.9.0                     |
